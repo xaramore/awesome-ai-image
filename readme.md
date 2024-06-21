@@ -4,7 +4,7 @@
 
 ### related links
 
-[There's An AI](https://theresanai.com) - [Best Image Generation AI Tools](https://theresanai.com/category/image-generation) - [Best Image Editing AI Tools](https://theresanai.com/category/image-editing)  - [AI Tools Blog](https://blog.theresanai.com) - [AI Newsletter](https://newsletter.theresanai.com)
+[There's An AI](https://theresanai.com) - [Best Audio AI Tools](https://theresanai.com/category/audio) - [Best Music AI Tools](https://theresanai.com/category/audio)  - [AI Tools Blog](https://blog.theresanai.com) - [AI Newsletter](https://newsletter.theresanai.com)
 
 
 ## Contents
